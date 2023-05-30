@@ -1,0 +1,5 @@
+banana
+milk
+pasta
+pizza
+...
